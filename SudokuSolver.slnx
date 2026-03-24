@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="SudokuSolver.Console/SudokuSolver.Console.csproj" />
+  <Project Path="SudokuSolver.Library/SudokuSolver.Library.csproj" />
+  <Project Path="SudokuSolver.Tests/SudokuSolver.Tests.csproj" />
+</Solution>
